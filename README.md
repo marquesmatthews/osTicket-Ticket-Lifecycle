@@ -80,10 +80,7 @@ Tracked ticket progress by updating statuses throughout the troubleshooting proc
 
 <img width="1080" height="572" alt="77" src="https://github.com/user-attachments/assets/fe2f4c4d-131e-4ef5-a0e1-f5c184e7fc39" />
 The tickewas escalted to the SysAdmins team,assigned to a technican,and actively investigated.The technican documted the cause of the outage and began trouble shooting by checking the sever configuration before attempting a restart.
-
-
-
-# Step 7 - Close Tickets
+# Step 6- Close Tickets
 
 <img width="534" height="358" alt="oo" src="https://github.com/user-attachments/assets/7d8c3012-c1ba-4973-a5ef-5c48dd67c7df" />
 Sever successfully restarted and confrimed 
