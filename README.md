@@ -37,29 +37,19 @@ Example tickets:
 - Password Reset
 - Equipment Request
 - Personal Computer Issue
+<img width="818" height="614" alt="cc" src="https://github.com/user-attachments/assets/36174564-51f4-40b6-9b09-a440918dc383" />
 
-**Screenshot:**
-*(Insert ticket creation screenshot here)*
-
----
 
 # Step 2 - Review Ticket Properties
 
-Verified each ticket's:
-- Priority
-- Department
-- Assigned Agent
-- Help Topic
-- Status
+<img width="1043" height="635" alt="tt" src="https://github.com/user-attachments/assets/14a1ab46-1191-4ef7-8278-8019a2b9ce75" />
 
-**Screenshot:**
-*(Insert ticket properties screenshot here)*
-
+This is me reviewing the ticket just seeing what the problem is 
 ---
 
 # Step 3 - Assign SLA Plans
 
-Applied Service Level Agreements (SLAs) based on ticket urgency.
+<img width="1048" height="644" alt="kkkk" src="https://github.com/user-attachments/assets/c4c1fde2-3604-45a9-8d73-51c61960eb77" />
 
 Examples:
 - Sev-A (1 Hour / 24x7)
@@ -80,49 +70,23 @@ Examples:
 - Support
 - Online Banking
 
-**Screenshot:**
-*(Insert department assignment screenshot here)*
+<img width="562" height="393" alt="yyoo" src="https://github.com/user-attachments/assets/f50a5e12-f99e-4e41-a135-69b5698e9dd1" />
+<img width="942" height="596" alt="yyyyl" src="https://github.com/user-attachments/assets/153acd3d-e45f-4d74-8288-7281b19e8084" />
 
----
 
 # Step 5 - Update Ticket Status
 
 Tracked ticket progress by updating statuses throughout the troubleshooting process.
 
-Examples:
-- Open
-- Assigned
-- In Progress
-- Resolved
+<img width="1080" height="572" alt="77" src="https://github.com/user-attachments/assets/fe2f4c4d-131e-4ef5-a0e1-f5c184e7fc39" />
+The tickewas escalted to the SysAdmins team,assigned to a technican,and actively investigated.The technican documted the cause of the outage and began trouble shooting by checking the sever configuration before attempting a restart.
 
-**Screenshot:**
-*(Insert status update screenshot here)*
 
----
-
-# Step 6 - Resolve Tickets
-
-Documented the troubleshooting process and successfully resolved each ticket.
-
-Examples:
-- Password reset completed
-- Software issue resolved
-- Network connectivity restored
-
-**Screenshot:**
-*(Insert resolved ticket screenshot here)*
-
----
 
 # Step 7 - Close Tickets
 
-Closed all completed tickets after confirming the issues were resolved.
-
-**Screenshot:**
-*(Insert closed ticket screenshot here)*
-
----
-
+<img width="534" height="358" alt="oo" src="https://github.com/user-attachments/assets/7d8c3012-c1ba-4973-a5ef-5c48dd67c7df" />
+Sever successfully restarted and confrimed 
 ## ✅ Outcome
 
 Successfully managed the complete lifecycle of support tickets in osTicket by creating, prioritizing, assigning, updating, resolving, and closing support requests. This lab demonstrates core Help Desk workflows used in real-world IT support environments.
